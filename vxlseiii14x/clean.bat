@@ -1,0 +1,2 @@
+del *.~*
+del /s *.dcu
